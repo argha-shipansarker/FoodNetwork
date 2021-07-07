@@ -149,6 +149,32 @@ body{
     color: rgba(24, 25, 31, 1);
 }
 
+.sectionFour{
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 64px 165px;
+    margin-top: 129px;
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.sectionFour h1{
+    font-size: 48px;
+    line-height: 44px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    color: rgba(24, 25, 31, 1);
+}
+.sectionFour p{
+    font-size: 18px;
+    line-height: 22px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: rgba(24, 25, 31, 1);
+}
+
 .footer{
     background-color: rgba(11, 13, 23, 1);
     height: 256px;
